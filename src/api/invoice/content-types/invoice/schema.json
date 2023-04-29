@@ -23,6 +23,9 @@
     },
     "items": {
       "type": "json"
+    },
+    "payments": {
+      "type": "json"
     }
   }
 }
